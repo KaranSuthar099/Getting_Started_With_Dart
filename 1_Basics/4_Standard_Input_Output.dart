@@ -30,7 +30,6 @@ void main() {
   // int number = int.parse(stdin.readLineSync() ?? "0");
   print("You Entered $number ");
 
-
   // StdOut
   // write(): this method writes a string on console without inserting a new line in the end.
   stdout.write("This is a line");
